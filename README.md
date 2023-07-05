@@ -1,1 +1,1 @@
-# pyqt_chatgpt
+# ChatGPT GUI using PyQT 
